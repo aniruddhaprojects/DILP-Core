@@ -229,3 +229,21 @@ class DILP():
         Y2 = tf.gather_nd(params=valuation, indices=X2)
         Z = Y1 * Y2
         return tf.reduce_max(input_tensor=Z, axis=1)
+    
+    def test(trials = 100) 
+        ...
+        #return: the MSE loss for validation
+        ...
+        
+        
+        return  mse 
+        
+    def predict(weights)
+    
+    
+    
+        return labels 
+    
+    def mse 
+    
+        return mse loss
